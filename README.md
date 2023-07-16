@@ -14,7 +14,7 @@ In this project, we utilized Detectron2 to automate the process of sky removal i
 
 1. Download the source code:
 > $ git clone https://github.com/farazmoradi/Object-Recognition.git
-2. In the notebooks folder, open the CV_project.ipynb to see the project. 
+2. In the notebooks folder, open the **CV_project.ipynb** to see the project. 
 3. Start running the cells and enjoy!
 
 # Dependencies
