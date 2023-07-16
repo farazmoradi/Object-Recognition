@@ -3,6 +3,7 @@
 
 # external requirements
 torch,
+opencv,
 detectron2,
 Pillow
 

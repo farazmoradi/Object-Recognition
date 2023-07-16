@@ -19,9 +19,11 @@ In this project, we utilized Detectron2 to automate the process of sky removal i
 
 # Dependencies
 
-* To run the code, you need to have PyTorch, Detectron2, and PIL (Pillow) installed in your Python environment. If not already installed, you can add them using pip.
+* To run the code, you need to have PyTorch, OpenCV, Detectron2, and PIL (Pillow) installed in your Python environment. If not already installed, you can add them using pip.
 
 > pip install torch torchvision
+
+>pip install opencv-python
 
 > python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
 
